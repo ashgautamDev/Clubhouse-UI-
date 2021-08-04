@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Clubhouse Ui Clone</string>
+    <string name="Name">name</string>
 </resources>
